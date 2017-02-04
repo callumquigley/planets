@@ -1,2 +1,3 @@
-*.dat ! a.dat
-remove/
+*.dat 
+!a.dat
+resutls/
